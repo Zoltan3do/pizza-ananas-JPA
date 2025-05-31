@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Application {
-	// buongiorno sono una commit
+	// buongiorno sono una commit del dev
 
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
