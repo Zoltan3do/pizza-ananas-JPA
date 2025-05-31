@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Application {
 	// buongiorno sono una commit del main
+	// pizza ad ananas is for learn git 
 
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
